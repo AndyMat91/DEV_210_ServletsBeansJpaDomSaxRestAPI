@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoGeneratorSettingsState">
+    <option name="moduleName" value="DEV_200_1_Network_Client_Data_storage_System_JPA" />
+    <option name="moduleNameToSettings">
+      <map>
+        <entry key="DEV_200_1_Network_Client_Data_storage_System_JPA">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="DatabaseSettingsState">
+    <option name="language" value="ru-RU" />
+  </component>
+</project>
